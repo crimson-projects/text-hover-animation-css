@@ -2,7 +2,7 @@
 
 # Text Hover Animation CSS | Crimson
 
-### <a href="crimsonn21.netlify.app"> link </a>
+### <a href="https://crimsonn21.netlify.app"> link </a>
 
 <img src="admin/base.png">
 
